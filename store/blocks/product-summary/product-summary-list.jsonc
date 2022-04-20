@@ -101,7 +101,7 @@
       "colGap": 5
     },
     "children": [
-      "add-to-cart-button",
+      "add-to-cart-button-ru",
       "flex-layout.row#buyNowButton"
     ]
   },
@@ -110,11 +110,11 @@
       "blockClass": "buyNowButton"
     },
     "children": [
-      "add-to-cart-button#buyNow"
+      "add-to-cart-button-ru#buyNow"
     ]
   },
 
-  "add-to-cart-button#buyNow": {
+  "add-to-cart-button-ru#buyNow": {
     "props": {
       "text": "BUY NOW",
       "isOneClickBuy": true,
