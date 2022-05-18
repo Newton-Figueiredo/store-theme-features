@@ -1,7 +1,6 @@
 {
   "store.home": {
     "blocks": [
-      "rtl-app",
       "list-context.image-list#demo",
 
       /* You can make references to blocks defined in other files.
