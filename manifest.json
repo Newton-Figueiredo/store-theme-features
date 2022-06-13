@@ -1,5 +1,5 @@
 {
-  "vendor": "corebizio",
+  "vendor": "newcheckoutlojausereserva",
   "name": "store-theme-features",
   "version": "4.4.2",
   "builders": {
@@ -62,10 +62,11 @@
     "vtex.product-specifications": "1.x",
     "vtex.tab-layout": "0.x",
     "vtex.condition-layout": "2.x",
-    "vtex.css-handles": "1.x"
+    "vtex.css-handles": "1.x",
+    "vtex.search-graphql": "0.x",
+    "vtex.search-page-context": "0.x",
+    "vtex.search": "2.x"
   },
-  "peerDependencies": {
-    "vtex.reviews-and-ratings": "2.x"
-  },
+  "peerDependencies": {},
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
